@@ -1,6 +1,6 @@
 <div align="center">
     <img src="./images/mac-logo.png" width="30%" />
-    <h1>Install MacOS on VMWare</h1>
+    <h1>VMWare'a MacOS Kurulumu</h1>
 </div>
 
 ![macOS Desktop](./images/screenshot-0.png)
