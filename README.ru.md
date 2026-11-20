@@ -7,6 +7,7 @@
 ## Языки
 - [English](README.md)
 - [Русский](README.ru.md)
+- [Turkish](README.tr.md)
 
 ## Необходимые условия
 
