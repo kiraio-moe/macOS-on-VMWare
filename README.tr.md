@@ -94,4 +94,3 @@
 ## Kaynaklar
 
 - [VMware'de macOS 14 Sonoma Sanal Makinesi Çalıştırma](https://i12bretro.github.io/tutorials/0602.html) rehberi için [i12bretro](https://github.com/i12bretro)'ya teşekkürler.
-- [A guide for installing macOS on VMWare](https://github.com/kiraio-moe/macOS-on-VMWare) rehberi için [kiraio-moe](https://github.com/kiraio-moe)'ya teşekkürler.
